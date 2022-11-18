@@ -57,4 +57,7 @@ Program input tanya [y/t], apabila jawaban t atau T, maka program inputan dihent
 -dan berikut adalah outputan nya
 ![Screenshot (46)](https://user-images.githubusercontent.com/115749975/202711757-03b2c6dc-1916-495d-990b-b96d7fa9f7ce.png)
 
+berikut flowchart nya
+![Screenshot (47)](https://user-images.githubusercontent.com/115749975/202717052-0cac84a3-71a7-484f-908e-dc84b335aeba.png)
+
 TERIMA KASIH ATAS.....
